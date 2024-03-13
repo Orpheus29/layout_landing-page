@@ -12,11 +12,19 @@
 
 <h2 align="center">📋About📋</h2>
 
+![image](https://github.com/Orpheus29/layout_landing-page/assets/110335429/356de0b9-5b44-4b39-805d-ae53e06edbad)
+
 This page is developed using *BEM* (Block, Element, Modifier) component-based approach and advanced *SCSS* styling capabilities.
+
+![image](https://github.com/Orpheus29/layout_landing-page/assets/110335429/360ac720-4f02-4394-87b6-70b73e3789b0)
 
 The *menu* icon in the top right corner of the page opens a pop-up navigation menu.
 
+![image](https://github.com/Orpheus29/layout_landing-page/assets/110335429/170e47b3-10a0-4280-9b57-fc4fce08e55c)
+
 The main part of the page consists of four sections, telling the potential customer about the different types of bikes.
+
+![image](https://github.com/Orpheus29/layout_landing-page/assets/110335429/fb11024e-0444-4bc9-8627-3a31b414e2cb)
 
 The whole page is made in a trendy dark a la minimalistic theme.
 
